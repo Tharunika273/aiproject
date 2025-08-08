@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>AI Shopping Assistant</title>
+    <link rel="stylesheet" href="/static/app.css" />
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>AI Shopping Assistant</h1>
+      </header>
+
+      <main>
+        <section id="chat">
+          <div id="messages"></div>
+          <form id="chat-form">
+            <input id="chat-input" type="text" placeholder="Ask for products, e.g. 'budget wireless earbuds under $50'" />
+            <button type="submit">Send</button>
+          </form>
+        </section>
+
+        <section id="products">
+          <h2>Recommendations</h2>
+          <div id="product-grid"></div>
+        </section>
+
+        <section id="cart">
+          <h2>Your Cart</h2>
+          <div id="cart-items"></div>
+          <div id="cart-subtotal"></div>
+        </section>
+      </main>
+    </div>
+
+    <script src="/static/app.js"></script>
+  </body>
+</html>
