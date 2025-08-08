@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Noise-Cancelling Headphones",
+    "category": "Electronics",
+    "price": 199.99,
+    "description": "Over-ear, Bluetooth 5.3 headphones with active noise cancellation and 30-hour battery life."
+  },
+  {
+    "id": 2,
+    "name": "Smart LED Light Bulb (4-Pack)",
+    "category": "Home & Kitchen",
+    "price": 39.99,
+    "description": "Multicolor, voice-controlled bulbs compatible with Alexa, Google Assistant, and HomeKit."
+  },
+  {
+    "id": 3,
+    "name": "Stainless-Steel Water Bottle 750 ml",
+    "category": "Sports & Outdoors",
+    "price": 24.5,
+    "description": "Double-wall, vacuum-insulated bottle that keeps drinks cold for 24 h or hot for 12 h."
+  },
+  {
+    "id": 4,
+    "name": "Organic Dark-Roast Coffee Beans 1 kg",
+    "category": "Grocery",
+    "price": 17.25,
+    "description": "Fair-trade, 100 % Arabica beans, roasted weekly for maximum freshness."
+  },
+  {
+    "id": 5,
+    "name": "Ergonomic Wireless Mouse",
+    "category": "Computers & Accessories",
+    "price": 49.99,
+    "description": "Vertical design reduces wrist strain, adjustable DPI, rechargeable via USB-C."
+  }
+]
