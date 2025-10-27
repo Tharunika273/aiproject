@@ -1,0 +1,31 @@
+id,name,category,brand,price,rating,description,image_url
+1001,Noise-Cancelling Headphones,Electronics,SonicWave,129.99,4.5,Over-ear Bluetooth headphones with active noise cancelling and 30-hour battery life.
+1002,Wireless Earbuds,Electronics,AirTune,79.99,4.2,Compact true wireless earbuds with charging case and IPX5 water resistance.
+1003,4K Smart TV 55-inch,Electronics,ViewMax,499.00,4.6,55-inch UHD HDR10 smart TV with built-in streaming apps and voice remote.
+1004,Mechanical Keyboard,Electronics,KeyForge,99.95,4.4,Hot-swappable mechanical keyboard with RGB backlight and tactile switches.
+1005,Ergonomic Mouse,Electronics,HandEase,39.99,4.1,Vertical ergonomic mouse designed to reduce wrist strain with adjustable DPI.
+2001,Slim Fit Jeans,Clothing,DenimLux,59.50,4.0,Classic slim fit stretch jeans with durable stitching and mid-rise waist.
+2002,Cotton T-Shirt,Clothing,SoftWear,14.99,4.3,100% cotton crew neck tee with breathable fabric and relaxed fit.
+2003,Running Shoes,Clothing,FlyStep,89.00,4.5,Lightweight running shoes with responsive foam cushioning and mesh upper.
+2004,Waterproof Jacket,Clothing,StormShell,129.00,4.6,3-layer waterproof breathable shell with adjustable hood and pit zips.
+2005,Sports Socks (3-Pack),Clothing,SwiftWear,12.99,4.1,Moisture-wicking cushioned socks ideal for training and daily wear.
+3001,Stainless Steel Cookware Set,Home,ChefCraft,149.00,4.4,10-piece tri-ply stainless steel cookware set compatible with all stovetops.
+3002,Vacuum Cleaner,Home,DustAway,119.00,4.2,Bagless vacuum cleaner with HEPA filter and multi-floor brush roll.
+3003,Air Fryer 5qt,Home,CrispTech,89.99,4.5,5-quart air fryer with rapid air circulation for crispy results and less oil.
+3004,Memory Foam Pillow,Home,SleepWell,29.99,4.3,Adaptive memory foam pillow with breathable cover and medium firmness.
+3005,LED Desk Lamp,Home,BrightLite,24.99,4.2,Adjustable LED desk lamp with 5 color modes and USB charging port.
+4001,Vitamin C Serum,Beauty,GlowLabs,19.99,4.4,Antioxidant-rich serum to brighten skin tone and reduce dark spots.
+4002,Moisturizing Cream,Beauty,HydraSkin,24.50,4.3,Daily face moisturizer with hyaluronic acid and ceramides.
+4003,Shampoo & Conditioner Set,Beauty,SilkStrand,17.99,4.1,Sulfate-free hair care set for smooth and shiny hair.
+4004,Matte Lipstick,Beauty,ColorMuse,12.00,4.0,Long-lasting matte lipstick with high pigment and comfortable wear.
+4005,Facial Cleanser,Beauty,PureWash,9.99,4.2,Gentle foaming cleanser suitable for all skin types.
+5001,Yoga Mat,Sports,FlexMat,21.99,4.3,Non-slip yoga mat with 6mm cushioning and alignment guides.
+5002,Dumbbell Set 20lb,Sports,IronFit,39.99,4.4,Adjustable dumbbell pair with secure collars and rubber-coated plates.
+5003,Stainless Water Bottle,Sports,ChillKeep,18.99,4.5,Insulated stainless steel bottle keeps drinks cold for 24 hours.
+5004,Tennis Racket,Sports,SpinMaster,69.00,4.1,Lightweight graphite racket with enlarged sweet spot for control.
+5005,Foam Roller,Sports,MuscleEase,15.99,4.2,High-density foam roller for muscle recovery and flexibility.
+6001,Organic Coffee Beans Grocery,Groceries,BeanBliss,14.99,4.6,Whole bean Arabica coffee with chocolate notes and medium roast.
+6002,Granola Crunch Grocery,Groceries,NatureBite,6.49,4.3,Crunchy granola with almonds and honey, no artificial flavors.
+6003,Extra Virgin Olive Oil Grocery,Groceries,OlivaPure,11.99,4.5,Cold-pressed EVOO ideal for salads and cooking.
+6004,Dark Chocolate 70% Grocery,Groceries,CocoaDelight,3.99,4.4,Rich dark chocolate bar with 70% cacao and subtle vanilla.
+6005,Green Tea Bags Grocery,Groceries,ZenLeaf,4.99,4.2,Smooth green tea bags with delicate aroma and antioxidants.
